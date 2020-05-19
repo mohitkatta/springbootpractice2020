@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springbootpractice
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mohit katta
+Implementation-Vendor-Id: com.mohit.springboot
+Build-Jdk: 1.8.0_251
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springbootpractice
+Created-By: Maven Integration for Eclipse
+
